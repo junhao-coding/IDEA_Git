@@ -12,5 +12,6 @@ public class GitTest {
         System.out.println("yjh xue java");
         System.out.println("hello GitHub");
         System.out.println("master commit");
+        System.out.println("hot-fix2");
     }
 }
